@@ -4,5 +4,6 @@
             "externalTemplate": true,
             "skipStyle": true
         }
-    }
+    },
+    "typescript.suggest.completeFunctionCalls": true
 }
